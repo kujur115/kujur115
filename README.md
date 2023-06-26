@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
 
-I am a highly motivated engineering graduate specializing in Electrical Engineering from the esteemed Indian Institute of Engineering Science and Technology, Shibpur (IIESTS). With a strong passion for web development, I have honed my skills as a full stack web developer, proficient in a wide range of technologies including HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+I am a highly motivated engineering graduate specializing in Electrical Engineering from the esteemed **Indian Institute of Engineering Science and Technology, Shibpur (IIESTS).** With a strong passion for web development, I have honed my skills as a full stack web developer, proficient in a wide range of technologies including HTML, CSS, JavaScript, React, Node.js, and MongoDB.
 
 Throughout my career, I have consistently demonstrated a keen eye for detail and a talent for creating beautiful and functional websites. I take pride in my ability to tackle complex projects that require both creativity and problem-solving skills. By leveraging my diverse skill set, I strive to deliver exceptional results while ensuring user-friendly and responsive designs.
 
@@ -26,9 +26,6 @@ I am currently seeking a challenging role within a dynamic team where I can cont
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kujur115&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](./imag/taship-journey.jpg)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=kujur115&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 
