@@ -24,26 +24,11 @@ I am currently seeking a challenging role within a dynamic team where I can cont
 ![](https://github-readme-stats.vercel.app/api?username=kujur115&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kujur115&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kujur115&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](./imag/taship-journey.jpg)
-
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=PratikKujur4)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
+Thank you for considering my application. I look forward to the opportunity of working with a visionary team on cutting-edge web development initiatives, pushing boundaries, and delivering exceptional results.
 
 [![](https://visitcount.itsvg.in/api?id=kujur115&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kujur115)
-
-Thank you for considering my application. I look forward to the opportunity of working with a visionary team on cutting-edge web development initiatives, pushing boundaries, and delivering exceptional results.
 
 <!--
 **kujur115/kujur115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
